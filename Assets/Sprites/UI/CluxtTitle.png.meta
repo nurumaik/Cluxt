@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 8ff2ffa9fe6dff442b39c722cece9557
+timeCreated: 1534181002
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CluxtTitle_0
+    21300002: CluxtTitle_1
+    21300004: CluxtTitle_2
+    21300006: CluxtTitle_3
+    21300008: CluxtTitle_4
+    21300010: CluxtTitle_5
+    21300012: CluxtTitle_6
+    21300014: CluxtTitle_7
+    21300016: CluxtTitle_8
+    21300018: CluxtTitle_9
+    21300020: CluxtTitle_10
+    21300022: CluxtTitle_11
+    21300024: CluxtTitle_12
+    21300026: CluxtTitle_13
+    21300028: CluxtTitle_14
+    21300030: CluxtTitle_15
+    21300032: CluxtTitle_16
+    21300034: CluxtTitle_17
+    21300036: CluxtTitle_18
+    21300038: CluxtTitle_19
+    21300040: CluxtTitle_20
+    21300042: CluxtTitle_21
+    21300044: CluxtTitle_22
+    21300046: CluxtTitle_23
+    21300048: CluxtTitle_24
+    21300050: CluxtTitle_25
+    21300052: CluxtTitle_26
+    21300054: CluxtTitle_27
+    21300056: CluxtTitle_28
+    21300058: CluxtTitle_29
+    21300060: CluxtTitle_30
+    21300062: CluxtTitle_31
+    21300064: CluxtTitle_32
+    21300066: CluxtTitle_33
+    21300068: CluxtTitle_34
+    21300070: CluxtTitle_35
+    21300072: CluxtTitle_36
+    21300074: CluxtTitle_37
+    21300076: CluxtTitle_38
+    21300078: CluxtTitle_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CluxtTitle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_1
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2328
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_2
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2328
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_3
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2328
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_4
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 2328
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_5
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 2328
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1940
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1940
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1940
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_9
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1940
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_10
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1940
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_11
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1940
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1552
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_14
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1552
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_15
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1552
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_16
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1552
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_17
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1552
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1164
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_20
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1164
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_21
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1164
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_22
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1164
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_23
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1164
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 776
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 776
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_27
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 776
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_28
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 776
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_29
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 776
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 388
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_32
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 388
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_33
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 388
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_34
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 388
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_35
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 388
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_37
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_38
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CluxtTitle_39
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 0
+        width: 852
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
